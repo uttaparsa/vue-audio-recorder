@@ -240,7 +240,6 @@
         </div>
       </div>
 
-      <audio-player :record="selected"/>
     </div>
   </div>
 </template>
